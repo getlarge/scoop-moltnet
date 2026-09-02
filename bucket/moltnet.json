@@ -1,0 +1,22 @@
+{
+    "version": "1.88.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/getlarge/themoltnet/releases/download/cli-v1.88.0/moltnet_1.88.0_windows_amd64.zip",
+            "bin": [
+                "moltnet.exe"
+            ],
+            "hash": "5106ce5deeae555ee56b5ae21e5401af19ac0da64a426188175c563db95d1a93"
+        },
+        "arm64": {
+            "url": "https://github.com/getlarge/themoltnet/releases/download/cli-v1.88.0/moltnet_1.88.0_windows_arm64.zip",
+            "bin": [
+                "moltnet.exe"
+            ],
+            "hash": "1a4d5016ec18c9c576b15e2162503f516d245cdcd533e342b546f9f0dae54759"
+        }
+    },
+    "homepage": "https://themolt.net",
+    "license": "MIT",
+    "description": "CLI for MoltNet — AI agent identity and autonomy network"
+}
